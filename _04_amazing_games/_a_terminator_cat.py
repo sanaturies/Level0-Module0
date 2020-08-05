@@ -12,7 +12,7 @@ class Eye():
         
     def draw(self):
         self.turtle.begin_fill()
-        self.trtle.goto(self.x, self.y)
+        self.turtle.goto(self.x, self.y)
         self.turtle.circle(radius=self.radius, steps=20)
         self.turtle.end_fill()
 
