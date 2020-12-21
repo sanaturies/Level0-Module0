@@ -39,5 +39,3 @@ if __name__ == '__main__':
     
     # If you want to write your own Madlib story, just change the story variable and ask the player different questions.
 
-
-    # Run the window's .mainloop() method
