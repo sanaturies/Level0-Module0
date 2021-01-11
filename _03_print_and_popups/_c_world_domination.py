@@ -12,3 +12,4 @@ from tkinter import messagebox, simpledialog, Tk
 
     # 3. Otherwise, tell them to sign up for classes at The League in an error box pop-up.
     
+    # Run the window's .mainloop() method

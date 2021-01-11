@@ -25,3 +25,4 @@ import random
     # 7. If your variable is  3
         # -- invent your own message to give to the user (be nice).
         
+    # Run the window's .mainloop() method
